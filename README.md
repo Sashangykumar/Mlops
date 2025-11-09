@@ -169,7 +169,7 @@ This project is licensed under the [MIT-0](./LISENSE).
 ## Contributing
 Refer to [CONTRIBUTING](./CONTRIBUTING) for more details on how to contribute to this project.
 
-## References
+## Reference
 
 * [SageMaker Project Template - MLOps template for model building, training and deployment](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects-templates-sm.html#sagemaker-projects-templates-code-commit)
 * [Preprocess input data before making predictions using Amazon SageMaker inference pipelines and Scikit-learn](https://aws.amazon.com/blogs/machine-learning/preprocess-input-data-before-making-predictions-using-amazon-sagemaker-inference-pipelines-and-scikit-learn/)
